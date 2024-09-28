@@ -1,5 +1,14 @@
 # 内容：Microsoft dropbox linkedin mozilla
 
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,client.wns.windows.com
+DOMAIN-SUFFIX,client.wns.windows
+DOMAIN-SUFFIX,wns.windows.com
+DOMAIN-SUFFIX,windows.com
+DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,windows
+DOMAIN-KEYWORD,office
+DOMAIN-SUFFIX,office.com
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,bing
 DOMAIN-SUFFIX,bing.com
